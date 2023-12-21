@@ -1,0 +1,15 @@
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\bin\Debug\BooksLibrary.exe.config
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\bin\Debug\BooksLibrary.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\bin\Debug\BooksLibrary.pdb
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary.csprojResolveAssemblyReference.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\MainWindow.g.cs
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\App.g.cs
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary_MarkupCompile.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary_MarkupCompile.lref
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\MainWindow.baml
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary.g.resources
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary.Properties.Resources.resources
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary.csproj.GenerateResource.Cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\BooksLibrary\obj\Debug\BooksLibrary.pdb

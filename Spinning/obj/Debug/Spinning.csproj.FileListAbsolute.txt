@@ -1,0 +1,7 @@
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Spinning\bin\Debug\Spinning.exe.config
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Spinning\bin\Debug\Spinning.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Spinning\bin\Debug\Spinning.pdb
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Spinning\obj\Debug\Spinning.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Spinning\obj\Debug\Spinning.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Spinning\obj\Debug\Spinning.pdb
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Spinning\obj\Debug\Spinning.csprojResolveAssemblyReference.cache

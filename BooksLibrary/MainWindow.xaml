@@ -1,0 +1,18 @@
+﻿<Window x:Class="BooksLibrary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BooksLibrary"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Margin="24">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock HorizontalAlignment="Center">Book Name:</TextBlock>
+                <TextBlock x:Name="BookTitle" HorizontalAlignment="Center"/>
+            </StackPanel>
+            <Button Margin="6" Width="80" Height="30" x:Name="FindBook" Content="Find Book" Click="FindBook_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

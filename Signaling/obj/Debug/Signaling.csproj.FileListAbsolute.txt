@@ -1,0 +1,7 @@
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Signaling\bin\Debug\Signaling.exe.config
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Signaling\bin\Debug\Signaling.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Signaling\bin\Debug\Signaling.pdb
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Signaling\obj\Debug\Signaling.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Signaling\obj\Debug\Signaling.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Signaling\obj\Debug\Signaling.pdb
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Signaling\obj\Debug\Signaling.csprojResolveAssemblyReference.cache

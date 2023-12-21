@@ -1,0 +1,6 @@
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.exe.config
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\bin\Debug\AsyncCSharp-Course.pdb
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\AsyncCSharp-Course\obj\Debug\AsyncCSharp-Course.pdb

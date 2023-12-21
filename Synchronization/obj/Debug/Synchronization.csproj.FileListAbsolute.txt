@@ -1,0 +1,7 @@
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Synchronization\bin\Debug\Synchronization.exe.config
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Synchronization\bin\Debug\Synchronization.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Synchronization\bin\Debug\Synchronization.pdb
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Synchronization\obj\Debug\Synchronization.csprojResolveAssemblyReference.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Synchronization\obj\Debug\Synchronization.csproj.CoreCompileInputs.cache
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Synchronization\obj\Debug\Synchronization.exe
+C:\Users\EngineerSpock\Source\Repos\AsyncCSharp-Course\Synchronization\obj\Debug\Synchronization.pdb
